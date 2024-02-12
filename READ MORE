@@ -1,0 +1,21 @@
+// javascript is a high-level progra programming language and servar side programming language
+// 1-javascript ko kasa lekh sakta ha 
+// console.log("hello javascript");
+// alert("hello javascript");
+// document.write("hello javascript");
+
+// 2- javascript varible and constant
+// their are 3 types of javascript
+// var ,let and const 
+// var ma varible ko dubara sa declear karsakta ha or value ko dubara bi assing kar sakta ha 
+// let ma varible ko dubara sa declear nahe karsakta ha or value ko dubara assing kar sakta ha 
+// comst ma varible ko dubara sa declear nahe karsakta ha or value ko  dubara assing nahe kar sakta ha 
+// 3 javascript data types
+// 1 - Number
+// 2 - String
+// 3 - Boolean
+// 4 - undefined
+// 5 - null
+// 6 - objects
+// 7 - arrays
+// 8 - symbol
